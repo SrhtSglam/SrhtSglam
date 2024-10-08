@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Serhat Sağlam and I'm a Game Developer.</h2>
+<h2 align="left">Hi 👋! My name is Serhat Saglam and I'm a Game Developer.</h2>
 
 ###
 
