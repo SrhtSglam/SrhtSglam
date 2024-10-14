@@ -32,9 +32,6 @@
   <a href="https://www.instagram.com/serhaetr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=serhaetr&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.gg/q548Ba2DSD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=SrhtSglam&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <img src="https://img.shields.io/static/v1?message=serhatsaglamb&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
