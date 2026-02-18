@@ -18,9 +18,3 @@ I focus on building scalable, maintainable, and performance-oriented application
 <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="sql" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=SrhtSglam&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrhtSglam&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
