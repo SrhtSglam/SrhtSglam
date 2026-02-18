@@ -1,54 +1,26 @@
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/102348106?v=4"  />
+# Hello 👋, I'm Serhat Sağlam
+### .NET & Game Developer
 
-###
+.NET Developer with strong experience in C# and web application development. I have developed multiple projects using ASP.NET MVC and Blazor, and I also have experience working with legacy technologies such as ASP.NET Web Forms (ASPX).
 
-<h1 align="left">Hi 👋! My name is Serhat Sağlam.</h1>
+I focus on building scalable, maintainable, and performance-oriented applications. In addition to web development, I am interested in game development and continuously improving my software architecture and design skills.
 
-###
+## Contact Me
+<p><a href="https://tr.linkedin.com/in/serhat-sa%C4%9Flam-0675a5336?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
-<h3 align="left">I'm a Junior Software Developer.</h3>
+## Skills
 
-###
+<p align="left">
+<img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo" alt="c#" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/fluency/48/unity.png" alt="unity" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="visual studio code" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" alt=".net" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="sql" width="40" height="40"/>&nbsp;
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-</div>
+## GitHub Stats
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=SrhtSglam&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="https://www.facebook.com/srhtsglam.2024" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrhtSglam&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrhtSglam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrhtSglam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrhtSglam&radius=16&theme=gruvbox&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/SrhtSglam/SrhtSglam/output/snake.svg" alt="Snake animation" />
-
-###
